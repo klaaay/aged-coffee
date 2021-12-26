@@ -17,6 +17,7 @@ summary: '基于webpack+react+antd项目的改造'
 
 当然之所以称 Vite 为元构建工具其实还有另外一层含义，Meta 这个词取自于希腊语本身带有超越的含义，而 vite 的出现本身就有超越先阶段基本都基于 webpack 构建这样的现状的意味，另外在中文神经元之类的词语中元本身还代表着最小功能单元的意思，而 vite 相较于 webpack 的构建方案，最大的特点之一就是在开发阶段不需要对源码全部打包为一个 bundle 给浏览器运行，而是基于 esm 直接交给现代浏览器运行处理，而一个[esm](https://nodejs.org/api/esm.html)便可以理解为那个最小的功能单元。
 ![webpack的打包方案](/static/images/bundler.37740380.png)
+
 ![vite的打包方案](/static/images/esm.3070012d.png)
 
 言归正传，之所以会有将项目改造为 vite 驱动的想法，是因为在开发项目代码量和文件数目变多的情况下，明显感觉 webpack 下的 dev 环境每次冷启动和热加载的速度变慢，另外自己早些时候也听闻过 vite 丝滑的开发体验，便跃跃欲试。
