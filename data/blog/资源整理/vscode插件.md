@@ -24,6 +24,7 @@ summary: ''
 5. [Less IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-less)
 6. [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 7. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
+8. [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 ## 风格
 
