@@ -1,5 +1,5 @@
 ---
-title: 元构建工具Vite初探
+title: 元构建工具vite初探
 date: '2021-12-26'
 tags: ['react', 'vite']
 draft: false
