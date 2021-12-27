@@ -8,14 +8,14 @@ summary: '基于webpack+react+antd项目的改造'
 
 - [写在前面](#写在前面)
 - [package.json 的大瘦身](#packagejson-的大瘦身)
-- [入口 index.html 文件调整](#入口indexhtml文件调整)
-- [react 以及 typescript 支持](#react以及typescript支持)
-- [less 以及 module-css 支持](#less以及module-css支持)
+- [入口 index.html 文件调整](#入口-indexhtml-文件调整)
+- [react 以及 typescript 支持](#react-以及-typescript-支持)
+- [less 以及 module-css 支持](#less-以及-module-css-支持)
 - [项目的基础代理配置](#项目的基础代理配置)
-- [绝对路径的 alisa 配置](#绝对路径的alisa配置)
+- [绝对路径的 alisa 配置](#绝对路径的-alisa-配置)
 - [静态文件的引入](#静态文件的引入)
 - [环境变量的配置](#环境变量的配置)
-- [manual chunk 的打包优化逻辑](#manual-chunk的打包优化逻辑)
+- [manual-chunk 打包优化逻辑](#manual-chunk-打包优化逻辑)
 - [奇怪的踩坑](#奇怪的踩坑)
 - [写在后面](#写在后面)
 
@@ -92,7 +92,7 @@ vite 的 index.html
 
 ## 环境变量的配置
 
-## manual chunk 的打包优化逻辑
+## manual-chunk 打包优化逻辑
 
 ## 奇怪的踩坑
 
