@@ -11,13 +11,13 @@ summary: '基于webpack+react+antd项目的改造'
 - [入口 index.html 文件调整](#入口-indexhtml-文件调整)
 - [react 以及 typescript 支持](#react-以及-typescript-支持)
 - [less 以及 module-css 支持](#less-以及-module-css-支持)
-- [项目的基础 server 及代理配置](#项目的基础server及代理配置)
+- [项目的基础 server 及代理配置](#项目的基础-server-及代理配置)
 - [绝对路径的 alisa 配置](#绝对路径的-alisa-配置)
 - [静态文件的引入](#静态文件的引入)
 - [环境变量的配置](#环境变量的配置)
 - [manual-chunk 打包优化逻辑](#manual-chunk-打包优化逻辑)
 - [奇怪的踩坑](#奇怪的踩坑)
-- [完整的 vite 配置](#完整的vite配置)
+- [完整的 vite 配置](#完整的-vite-配置)
 - [写在最后](#写在最后)
 
 ## 写在前面
@@ -336,8 +336,8 @@ export default defineConfig({
 
 ## 写在最后
 
-1. 迁移过后的项目在最新的 chrome 跑已经没有问题，但对于一些老浏览器的支持还需要验证。
-   vite 本身提供了老浏览器的支持[插件](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy)
+1. 迁移过后的项目在最新的 chrome 跑已经没有问题，但对于一些老浏览器的支持还需要验证。  
+   (vite 本身提供了老浏览器的支持[插件](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy))
 
 2. `由于vite在开发环境下和生产环境下两种构筑方式上还是存在一定的差异性，对于最终的线上部署可能会带来一定的困扰。`
 
