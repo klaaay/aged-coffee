@@ -9,7 +9,7 @@ summary: ''
 - [常见替代](#常见替代)
 - [功能](#功能)
 
-# 常见替代
+## 常见替代
 
 1. [procs](https://github.com/dalance/procs)  
    查看系统运行的进程
@@ -43,7 +43,7 @@ exa -l
 exa --tree --level=2
 ```
 
-# 功能
+## 功能
 
 1. [rg](https://github.com/BurntSushi/ripgrep)  
    正则查找文件夹或者文件中的内容
