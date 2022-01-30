@@ -1,5 +1,5 @@
 ---
-title: React服务器组件如何工作:一个深入的指南
+title: React服务器组件如何工作:深入指南
 date: '2022-01-30'
 tags: ['react', '博文翻译']
 draft: false
@@ -8,7 +8,7 @@ summary: ''
 
 原文地址：[How React server components work: an in-depth guide](https://blog.plasmic.app/posts/how-react-server-components-work)
 
-- [React 服务器组件如何工作:一个深入的指南](#react-服务器组件如何工作一个深入的指南)
+- [React 服务器组件如何工作:深入指南](#react-服务器组件如何工作深入指南)
   - [什么是 React 服务器组件](#什么是-react-服务器组件)
     - [这不是服务器端渲染吗？](#这不是服务器端渲染吗)
     - [为什么我们会想要这个？](#为什么我们会想要这个)
@@ -28,7 +28,7 @@ summary: ''
   - [为什么我需要使用 RSC 的元框架？](#为什么我需要使用-rsc-的元框架)
   - [RSC 准备好了吗？](#rsc-准备好了吗)
 
-# React 服务器组件如何工作:一个深入的指南
+# React 服务器组件如何工作:深入指南
 
 React 服务器组件（RSC）是一个令人兴奋的新功能，在不久的将来会对页面加载性能、包的大小以及我们如何编写 React 应用程序产生巨大影响。尽管 RSC 在 React 18 中仍然是一个早期的实验性功能，我们一直在挖掘它在引擎盖下的工作原理。在这篇博文中，我们很高兴地与大家分享我们所学到的东西。
 
