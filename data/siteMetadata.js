@@ -22,8 +22,7 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit
     // Please add your .env file and modify it according to your selection
-    // TODO: 添加订阅方案
-    provider: '',
+    provider: 'buttondown',
   },
   comment: {
     // Select a provider and use the environment variables associated to it
