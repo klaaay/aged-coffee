@@ -7,6 +7,8 @@ summary: ''
 ---
 
 ```bash
+plugins=(git git-open zsh-autosuggestions dirhistory)
+
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH=/usr/local/Cellar/postgresql@9.6/9.6.19/bin:$PATH
 
