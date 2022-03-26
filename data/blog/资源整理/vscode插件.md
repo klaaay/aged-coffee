@@ -8,7 +8,8 @@ summary: ''
 
 ## 视觉
 
-1. [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+1. [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)  
+   给 vscode 上色
 2. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 3. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 4. [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
@@ -32,6 +33,8 @@ summary: ''
 2. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 3. [Document This](https://marketplace.visualstudio.com/items?itemName=oouo-diogo-perdigao.docthis)
 4. [koroFileHeader](https://marketplace.visualstudio.com/items?itemName=OBKoro1.korofileheader)
+5. [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)  
+   git 项目的归类管理
 
 ## 提示
 
