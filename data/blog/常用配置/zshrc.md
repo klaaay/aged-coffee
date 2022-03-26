@@ -33,7 +33,7 @@ alias gclr="git checkout ./"
 alias gcmit="git commit -m"
 
 alias cfgzsh="open ~/.zshrc"
-alias apyzsh="source ~/.zshrc"
+alias sourcezsh="source ~/.zshrc"
 
 alias clr='clear'
 
