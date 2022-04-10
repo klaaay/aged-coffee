@@ -7,7 +7,6 @@ summary: ''
 ---
 
 ```bash
-plugins=(git git-open zsh-autosuggestions dirhistory)
 
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH=/usr/local/Cellar/postgresql@9.6/9.6.19/bin:$PATH
@@ -17,8 +16,18 @@ export ZSH=$HOME/.oh-my-zsh
 
 ZSH_THEME="ys"
 
-
-plugins=(git)
+# git clone https://github.com/paulirish/git-open.git
+# git clone https://github.com/zsh-users/zsh-autosuggestions
+# git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+# git clone https://github.com/agkozak/zsh-z
+plugins=(
+  git
+  dirhistory
+  git-open
+  zsh-autosuggestions
+  zsh-syntax-highlighting
+  zsh-z
+)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -26,16 +35,33 @@ prompt_context() {}
 
 eval $(thefuck --alias)
 
+# -------------------------------- #
+
+alias clr='clear'
+
+# -------------------------------- #
+
+alias s="nr start"
+alias d="nr dev"
+alias b="nr build"
+
+# -------------------------------- #
+
 alias ga="git add -A"
 alias gpull="git pull origin"
 alias gpush="git push origin"
-alias gclr="git checkout ./"
 alias gcmit="git commit -m"
+
+alias gclr="git checkout ./"
+alias gck="git checkout"
+alias gckb="git checkout -b"
+
+# -------------------------------- #
 
 alias cfgzsh="open ~/.zshrc"
 alias sourcezsh="source ~/.zshrc"
 
-alias clr='clear'
+# -------------------------------- #
 
 # where proxy
 proxy () {
