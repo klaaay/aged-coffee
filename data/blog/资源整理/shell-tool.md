@@ -1,5 +1,5 @@
 ---
-title: shell工具
+title: shell-tool
 date: '2022-01-29'
 tags: ['资源整理']
 draft: false
