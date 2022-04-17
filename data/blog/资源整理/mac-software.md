@@ -38,6 +38,7 @@ summary: ''
 9. [TinyPNG4Mac - 图片压缩](https://github.com/kyleduo/TinyPNG4Mac)
 10. [uPic - 图床](https://github.com/gee1k/uPic)
 11. [ShadoShadowsocksX-NG-R8 - 翻墙](https://github.com/shadowsocks/ShadowsocksX-NG)
+12. [KeepingYouAwake - 电脑休眠](https://github.com/newmarcel/KeepingYouAwake)
 
 ## 娱乐
 
