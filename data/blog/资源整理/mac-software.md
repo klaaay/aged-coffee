@@ -1,7 +1,7 @@
 ---
 title: mac-software
 date: '2022-04-17'
-tags: ['常用配置']
+tags: ['资源整理']
 draft: false
 summary: ''
 ---
