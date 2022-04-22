@@ -1,4 +1,4 @@
-![tailwind-nextjs-logo](/public/static/images/logo.png)
+![AgedCoffee](https://cdn.jsdelivr.net/gh/klaaay/pbed@main/uPic/favicon.png)
 
 # AgedCoffee Blog
 
