@@ -1,5 +1,5 @@
 ---
-title: React服务器组件如何工作:深入指南
+title: Suspense的基本原理
 date: '2022-03-21'
 tags: ['react', '博文翻译']
 draft: false
