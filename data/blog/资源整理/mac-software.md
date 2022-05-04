@@ -18,6 +18,7 @@ summary: ''
 6. QQ 音乐
 7. VSCODE
 8. Docker
+9. uTorrent
 
 ## 效率
 
