@@ -31,14 +31,15 @@ summary: ''
 2. Magnet - 分屏工具
 3. eZip - 压缩工具
 4. zsh - 命令行
-5. Shottr - 截屏工具
-6. Jump-Desktop - 远程连接
-7. [OpenInTerminal - terminal 工具](https://github.com/Ji4n1ng/OpenInTerminal)
-8. [SwitchKey - 输入法自动切换](https://github.com/itsuhane/SwitchKey)
-9. [TinyPNG4Mac - 图片压缩](https://github.com/kyleduo/TinyPNG4Mac)
-10. [uPic - 图床](https://github.com/gee1k/uPic)
-11. [ShadoShadowsocksX-NG-R8 - 翻墙](https://github.com/shadowsocks/ShadowsocksX-NG)
-12. [KeepingYouAwake - 电脑休眠](https://github.com/newmarcel/KeepingYouAwake)
+5. [wrap - 命令行扩展](https://www.warp.dev/)
+6. Shottr - 截屏工具
+7. Jump-Desktop - 远程连接
+8. [OpenInTerminal - terminal 工具](https://github.com/Ji4n1ng/OpenInTerminal)
+9. [SwitchKey - 输入法自动切换](https://github.com/itsuhane/SwitchKey)
+10. [TinyPNG4Mac - 图片压缩](https://github.com/kyleduo/TinyPNG4Mac)
+11. [uPic - 图床](https://github.com/gee1k/uPic)
+12. [ShadoShadowsocksX-NG-R8 - 翻墙](https://github.com/shadowsocks/ShadowsocksX-NG)
+13. [KeepingYouAwake - 电脑休眠](https://github.com/newmarcel/KeepingYouAwake)
 
 ## 娱乐
 
