@@ -6530,6 +6530,11 @@ react-dom@17.0.2:
     object-assign "^4.1.1"
     scheduler "^0.20.2"
 
+react-hook-form-taro@^7.1.3:
+  version "7.1.3"
+  resolved "https://registry.npmjs.org/react-hook-form-taro/-/react-hook-form-taro-7.1.3.tgz#ac4f9deddba36b3a5675d935854828c3d33c0e1b"
+  integrity sha512-qv2r9GObELrxBngO9fTrObr5xyw3xCIoNXCxBWWnUmEU3WfVcQHLaUuw/GW7nDPryzFjdBj8nBQG/qlKTjLUCw==
+
 react-is@17.0.2:
   version "17.0.2"
   resolved "https://registry.npmmirror.com/react-is/download/react-is-17.0.2.tgz?cache=0&sync_timestamp=1637338596901&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Freact-is%2Fdownload%2Freact-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
