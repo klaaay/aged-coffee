@@ -40,6 +40,7 @@ summary: ''
 
 1. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 2. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+3. [VersionLens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 
 ## 功能
 

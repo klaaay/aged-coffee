@@ -19,12 +19,14 @@ summary: ''
 7. VSCODE
 8. Docker
 9. uTorrent
+10. 阿里云盘
 
 ## 效率
 
 1. Notion - 内容管理
 2. Paste - 粘贴板工具
 3. Alfred 4 - 搜索增强
+4. [Fluent Reader - RSS 阅读](https://github.com/yang991178/fluent-reader)
 
 ## 工具
 
