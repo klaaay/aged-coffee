@@ -27,6 +27,7 @@ summary: ''
 2. Paste - 粘贴板工具
 3. Alfred 4 - 搜索增强
 4. [Fluent Reader - RSS 阅读](https://github.com/yang991178/fluent-reader)
+5. Ego Reader - RSS 阅读
 
 ## 工具
 
