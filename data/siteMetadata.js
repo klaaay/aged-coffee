@@ -12,6 +12,7 @@ const siteMetadata = {
   email: '793336993@qq.com',
   github: 'https://github.com/klaaay',
   twitter: 'https://twitter.com/home?lang=zh-cn',
+  rss: 'https://aged-coffee-dddd.vercel.app/feed.xml',
   locale: 'zh-CN',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
