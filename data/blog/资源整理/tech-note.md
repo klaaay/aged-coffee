@@ -6,6 +6,18 @@ draft: false
 summary: ''
 ---
 
+## 在 webpack4 中添加强本地缓存
+
+```js
+const HardSourceWebpackPlugin = require('hard-source-webpack-plugin')
+
+plugins: [
+  new HardSourceWebpackPlugin({
+    cacheDirectory: path.resolve(__dirname, '../cache'),
+  }),
+]
+```
+
 ## 在 nextjs 中支持项目外部的.ts,.tsx 文件编译
 
 ```javascript
