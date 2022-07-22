@@ -1,7 +1,7 @@
 ---
 title: tech-notes
 date: '2022-03-03'
-tags: ['笔记', '技术笔记']
+tags: ['资源整理']
 draft: false
 summary: ''
 ---
