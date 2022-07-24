@@ -6,6 +6,12 @@ draft: false
 summary: ''
 ---
 
+## FFmpeg 脚本
+
+```shell
+ffmpeg -i video.mp4 -i audio.mp4 -c:v copy -c:a aac -strict experimental output.mp4
+```
+
 ## 在 webpack4 中添加强本地缓存
 
 ```js
