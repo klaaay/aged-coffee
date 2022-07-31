@@ -46,6 +46,7 @@ summary: ''
 13. [KeepingYouAwake - 电脑休眠](https://github.com/newmarcel/KeepingYouAwake)
 14. [Input Source pro - 输入法切换](https://inputsource.pro/zh-CN?utm_source=appinn.com)
 15. [Dropover - 文件拖拽中转](https://apps.apple.com/cn/app/dropover/id1355679052?mt=12)
+16. [Bartender - Mac 菜单栏管理](https://www.macbartender.com/)
 
 ## 娱乐
 
