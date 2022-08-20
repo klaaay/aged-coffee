@@ -6,6 +6,16 @@ draft: false
 summary: ''
 ---
 
+## nginx 配置正则反向代理
+
+```
+resolver 8.8.8.8;
+
+location ~ /xx/([0-9a-z]+).html {
+  proxy_pass http://your.domain/xx/$1/
+}
+```
+
 ## FFmpeg 脚本
 
 ```shell
