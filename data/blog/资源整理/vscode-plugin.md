@@ -1,5 +1,5 @@
 ---
-title: vscode插件
+title: vscode 插件
 date: '2021-12-15'
 tags: ['资源整理']
 draft: false
