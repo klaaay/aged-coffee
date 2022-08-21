@@ -65,7 +65,8 @@ summary: ''
 [fe-interview](https://github.com/haizlin/fe-interview)  
 [tech-interview-handbook](https://www.techinterviewhandbook.org/)  
 [互联网大厂面试每日一题](https://q.shanyue.tech/)  
-[every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+[every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)  
+[software-engineering-at-google](https://qiangmzsx.github.io/Software-Engineering-at-Google/#/)
 
 ## 设计架构-pattern
 
