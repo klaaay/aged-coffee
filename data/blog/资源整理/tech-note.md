@@ -6,6 +6,66 @@ draft: false
 summary: ''
 ---
 
+## Canvas 工具函数
+
+```typescript
+// 调整图片的尺寸大小
+function imageUrl2ExactCanvas(image: HTMLImageElement, imageSize: LimitImageSize) {
+  const cvs = document.createElement('canvas')
+  const ctx = cvs.getContext('2d')
+  const width = imageSize[0]
+  const height = imageSize[1]
+  cvs.width = width
+  cvs.height = height
+  ctx!.drawImage(image, 0, 0, cvs.width, cvs.height)
+  image2white(ctx!, width, height)
+  return cvs
+}
+
+// 图片透明部分转换成白色
+function image2white(ctx: CanvasRenderingContext2D, width: number, height: number) {
+  let imageData = ctx!.getImageData(0, 0, width, height)
+  for (let i = 0; i < imageData.data.length; i += 4) {
+    // 当该像素是透明的，则设置成白色
+    if (imageData.data[i + 3] === 0) {
+      imageData.data[i] = 255
+      imageData.data[i + 1] = 255
+      imageData.data[i + 2] = 255
+      imageData.data[i + 3] = 255
+    }
+  }
+  ctx!.putImageData(imageData, 0, 0)
+}
+
+/**
+ * @param image 图片
+ * @param backType 需要返回的类型blob,file
+ * @param quality 图片压缩比 0-1,数字越小，图片压缩越小
+ * @returns
+ */
+function compressorImage(image: File, backType?: 'blob' | 'file', quality?: number) {
+  return new Promise((resolve, reject) => {
+    new Compressor(image, {
+      quality: quality || 0.8,
+      success(result) {
+        let file = new File([result], image.name, { type: image.type })
+
+        if (!backType || backType === 'blob') {
+          resolve(result)
+        } else if (backType === 'file') {
+          resolve(file)
+        } else {
+          resolve(file)
+        }
+      },
+      error(err) {
+        reject(err)
+      },
+    })
+  })
+}
+```
+
 ## nginx 配置正则反向代理
 
 ```
