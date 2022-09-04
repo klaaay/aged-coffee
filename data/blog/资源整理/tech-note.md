@@ -6,6 +6,14 @@ draft: false
 summary: ''
 ---
 
+## antd-mobile css 变量覆盖
+
+```css
+:root:root {
+  --adm-button-border-radius: 2px;
+}
+```
+
 ## Canvas 工具函数
 
 ```typescript

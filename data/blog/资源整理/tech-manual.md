@@ -17,6 +17,7 @@ summary: ''
 - [脚本-shell](#脚本-shell)
 - [算法-algorithm](#算法-algorithm)
 - [工具-tools](#工具-tools)
+- [工程-projects](#工程-projects)
 
 ## css
 
@@ -91,3 +92,7 @@ summary: ''
 [lerna-git-branching](https://learngitbranching.js.org/?locale=zh_CN)  
 [常用 git 命令清单](https://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)  
 [monorepo-tools](https://monorepo.tools/)
+
+## 工程-projects
+
+[如何打包 JavaScript 库的现代化指南](https://github.com/frehner/modern-guide-to-packaging-js-library/blob/main/README-zh_CN.md)

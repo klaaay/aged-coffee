@@ -47,6 +47,8 @@ summary: ''
 14. [Input Source pro - 输入法切换](https://inputsource.pro/zh-CN?utm_source=appinn.com)
 15. [Dropover - 文件拖拽中转](https://apps.apple.com/cn/app/dropover/id1355679052?mt=12)
 16. [Bartender - Mac 菜单栏管理](https://www.macbartender.com/)
+17. [Omi 录屏专家](https://apps.apple.com/cn/app/%E5%BD%95%E5%B1%8F%E4%B8%93%E5%AE%B6omi-%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6%E5%B7%A5%E5%85%B7/id1592987853?mt=12)
+18. [Downie 4 - 视频下载](https://software.charliemonroe.net/downie/)
 
 ## 娱乐
 
