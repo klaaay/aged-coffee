@@ -35,6 +35,7 @@ summary: ''
 [javascript 心智模型](https://sudongyuer.github.io/javascript-mental-models/)  
 [react 技术揭秘](https://react.iamkasong.com/)  
 [typescript-cheatsheets-react](https://github.com/typescript-cheatsheets/react)
+[CSR 优化手册](https://github.com/theninthsky/client-side-rendering)
 
 ## typescript
 
