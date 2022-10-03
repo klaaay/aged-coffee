@@ -51,3 +51,6 @@ exa --tree --level=2
 ```shell
 rg 'fast\w*' README.md
 ```
+
+2. [ctop](https://github.com/bcicen/ctop)  
+   运行程序资源分布查看
