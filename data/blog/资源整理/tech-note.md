@@ -6,6 +6,10 @@ draft: false
 summary: ''
 ---
 
+## nginx-openresty 查看日志位置
+
+![rahGOt](https://cdn.jsdelivr.net/gh/klaaay/pbed@main/uPic/rahGOt.jpg)
+
 ## antd-mobile css 变量覆盖
 
 ```css
