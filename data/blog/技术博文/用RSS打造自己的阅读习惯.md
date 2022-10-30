@@ -36,13 +36,9 @@ summary: '用 RSS 打造自己的阅读习惯'
 
 ![fluent-reader](https://cdn.jsdelivr.net/gh/klaaay/pbed@main/uPic/UnyAP1.jpg)
 
-![TReGKz](https://cdn.jsdelivr.net/gh/klaaay/pbed@main/uPic/TReGKz.jpg)
-
 [Ego-Reader 移动端](https://egorss.com/zh/)
 
 ![ego-reader](https://cdn.jsdelivr.net/gh/klaaay/pbed@main/uPic/fyoPvc.jpg)
-
-![hloQFL](https://cdn.jsdelivr.net/gh/klaaay/pbed@main/uPic/hloQFL.jpg)
 
 ## 如何找 RSS 订阅源
 
@@ -57,8 +53,6 @@ RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以�
 #### 谷歌插件
 
 [rss-reader-chrome](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa)
-
-![hCMcSm](https://cdn.jsdelivr.net/gh/klaaay/pbed@main/uPic/hCMcSm.jpg)
 
 ![ID50BU](https://cdn.jsdelivr.net/gh/klaaay/pbed@main/uPic/ID50BU.jpg)
 
