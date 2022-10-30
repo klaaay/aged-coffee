@@ -1,7 +1,7 @@
 ---
 title: 用 RSS 打造自己的阅读习惯
 date: '2022-10-30'
-tags: ['通用']
+tags: ['通用', '原创']
 draft: false
 summary: '用 RSS 打造自己的阅读习惯'
 ---

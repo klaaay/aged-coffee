@@ -1,7 +1,7 @@
 ---
 title: 元构建工具vite初探
 date: '2021-12-26'
-tags: ['react', 'vite']
+tags: ['react', 'vite', '原创']
 draft: false
 summary: '基于webpack+react+antd项目的改造'
 ---
