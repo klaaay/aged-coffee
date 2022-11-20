@@ -6,6 +6,29 @@ draft: false
 summary: ''
 ---
 
+## nginx 常规路径代理配置
+
+```
+location /docs/zh {
+  proxy_pass https://your.domain.com/zh/;
+  proxy_set_header Upgrade $http_upgrade;
+  proxy_set_header Connection "upgrade";
+}
+```
+
+## nginx 网段禁止配置
+
+```
+server {
+  listen       80;
+  server_name  domain1.com www.domain1.com;
+  access_log   logs/domain1.access.log  main;
+  root         html;
+
+  deny 61.135.0.0/16;
+}
+```
+
 ## nginx-openresty 查看日志位置
 
 ![rahGOt](https://cdn.jsdelivr.net/gh/klaaay/pbed@main/uPic/rahGOt.jpg)
