@@ -20,6 +20,7 @@ summary: ''
 8. Docker
 9. uTorrent
 10. 阿里云盘
+11. Eagle
 
 ## 效率
 
@@ -28,6 +29,7 @@ summary: ''
 3. Alfred 4 - 搜索增强
 4. [Fluent Reader - RSS 阅读](https://github.com/yang991178/fluent-reader)
 5. Ego Reader - RSS 阅读
+6. [Eagle - 图片管理](https://eagle.cool/)
 
 ## 工具
 

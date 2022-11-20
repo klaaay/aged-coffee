@@ -80,7 +80,8 @@ summary: ''
 ## 脚本-shell
 
 [bash 脚本教程](https://wangdoc.com/bash/intro.html)  
-[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh-Hant.md)
+[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh-Hant.md)  
+[effective-shell](https://effective-shell.com/)
 
 ## 算法-algorithm
 
