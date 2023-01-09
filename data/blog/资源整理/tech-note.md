@@ -6,6 +6,36 @@ draft: false
 summary: ''
 ---
 
+- [在屏幕缩放比例发生改变页面不变的处理方案](#在屏幕缩放比例发生改变页面不变的处理方案)
+- [antd-mobile css 变量覆盖](#antd-mobile-css-变量覆盖)
+- [nginx 常规路径代理配置](#nginx-常规路径代理配置)
+- [nginx 网段禁止配置](#nginx-网段禁止配置)
+- [nginx-openresty 查看日志位置](#nginx-openresty-查看日志位置)
+- [Canvas 工具函数](#canvas-工具函数)
+- [nginx 配置正则反向代理](#nginx-配置正则反向代理)
+- [FFmpeg 脚本](#ffmpeg-脚本)
+- [在 webpack4 中添加强本地缓存](#在-webpack4-中添加强本地缓存)
+- [在 nextjs 中支持项目外部的.ts,.tsx 文件编译](#在-nextjs-中支持项目外部的tstsx-文件编译)
+- [H5 的使用技巧](#h5-的使用技巧)
+- [vite 配合 whistle 跑本地环境的 server-hmr 配置](#vite-配合-whistle-跑本地环境的-server-hmr-配置)
+
+## 在屏幕缩放比例发生改变页面不变的处理方案
+
+1. 首页第一个模块所有的 100vh 全部要动态的改变为 calc（100vh \* 2）
+2. 视频的宽度需要调整为 100%（视频动效会没）
+3. 登录模态框内部的逻辑调整为 zoom 处理
+
+- 暂定有问题的动效模块直接不展示
+- 另外注入 URS 模态框的 css 可以区分 Win 还是 Mac
+
+## antd-mobile css 变量覆盖
+
+```css
+:root:root {
+  --adm-button-border-radius: 2px;
+}
+```
+
 ## nginx 常规路径代理配置
 
 ```
@@ -32,14 +62,6 @@ server {
 ## nginx-openresty 查看日志位置
 
 ![rahGOt](https://cdn.jsdelivr.net/gh/klaaay/pbed@main/uPic/rahGOt.jpg)
-
-## antd-mobile css 变量覆盖
-
-```css
-:root:root {
-  --adm-button-border-radius: 2px;
-}
-```
 
 ## Canvas 工具函数
 
