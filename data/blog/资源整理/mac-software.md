@@ -52,6 +52,7 @@ summary: ''
 17. [Omi 录屏专家](https://apps.apple.com/cn/app/%E5%BD%95%E5%B1%8F%E4%B8%93%E5%AE%B6omi-%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6%E5%B7%A5%E5%85%B7/id1592987853?mt=12)
 18. [Downie 4 - 视频下载](https://software.charliemonroe.net/downie/)
 19. [Cursor-pro - 光标优化](https://apps.apple.com/us/app/cursor-pro/id1447043133?mt=12)
+20. [stats - 系统监控](https://github.com/exelban/stats)
 
 ## 娱乐
 
