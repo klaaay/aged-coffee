@@ -9,9 +9,9 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpeg',
   socialBanner: '/static/images/banner.png',
-  email: '793336993@qq.com',
+  email: 'klaaaywu@163.com',
   github: 'https://github.com/klaaay',
-  twitter: 'https://twitter.com/home?lang=zh-cn',
+  twitter: 'https://twitter.com/__middle__child',
   rss: 'https://aged-coffee-dddd.vercel.app/feed.xml',
   locale: 'zh-CN',
   analytics: {
