@@ -6,6 +6,8 @@ draft: false
 summary: ''
 ---
 
+- [ios H5 history.back() 返回上一路由 页面白屏问题](#ios-h5-historyback-返回上一路由-页面白屏问题)
+- [Vite 配置 ws 转发](#vite-配置-ws-转发)
 - [在屏幕缩放比例发生改变页面不变的处理方案](#在屏幕缩放比例发生改变页面不变的处理方案)
 - [antd-mobile css 变量覆盖](#antd-mobile-css-变量覆盖)
 - [nginx 常规路径代理配置](#nginx-常规路径代理配置)
@@ -18,6 +20,22 @@ summary: ''
 - [在 nextjs 中支持项目外部的.ts,.tsx 文件编译](#在-nextjs-中支持项目外部的tstsx-文件编译)
 - [H5 的使用技巧](#h5-的使用技巧)
 - [vite 配合 whistle 跑本地环境的 server-hmr 配置](#vite-配合-whistle-跑本地环境的-server-hmr-配置)
+
+## ios H5 history.back() 返回上一路由 页面白屏问题
+
+改变 history.scrollRestoration
+
+使用 history.back 返回上一页的时候，浏览器会记录页面的滚动位置，而在 iOS 上面，滚动后返回的时候页面渲染会出现问题，导致白屏。可以利用 scrollRestoration 属性，它默认是 auto，也就是会记录滚动位置（这是 H5 新增的属性，所以需要判断浏览器是否支持，我实践的是可以兼容大部分移动端机型）
+
+```js
+if ('scrollRestoration' in history) {
+  history.scrollRestoration = 'manual' //改为 manual 之后，就不会记录滚动位置
+}
+```
+
+## Vite 配置 ws 转发
+
+![L3PbXs](https://cdn.jsdelivr.net/gh/klaaay/pbed@main/uPic/L3PbXs.jpg)
 
 ## 在屏幕缩放比例发生改变页面不变的处理方案
 
