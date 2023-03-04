@@ -42,20 +42,32 @@ alias ..="cd .."
 
 # -------------------------------- #
 
-alias s="nr start"
-alias d="nr dev"
-alias b="nr build"
+alias ga="git add"
+alias gA="git add -A"
 
-# -------------------------------- #
 
-alias ga="git add -A"
-alias gpull="git pull origin"
-alias gpush="git push origin"
-alias gcmit="git commit -m"
-
-alias gclr="git checkout ./"
 alias gck="git checkout"
 alias gckb="git checkout -b"
+
+alias go="git open"
+
+alias gcl="git clone"
+alias gclr="git checkout ./"
+alias gp="git pull origin"
+alias gps="git push origin"
+alias gcm="git commit -m"
+alias gch="git cherry-pick"
+
+alias gsv="git stash save"
+alias gsl="git stash list"
+alias gsp="git stash pop"
+alias gsclr="git stash clear"
+
+
+# npm install -g czg
+# czg --openai-token=sk-xxxxx
+
+alias aicm="czg ai"
 
 # -------------------------------- #
 
