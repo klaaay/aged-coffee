@@ -10,7 +10,14 @@
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-git",
+      "czConfig": "./cz.config.js"
+    }
   },
   "dependencies": {
     "@mailchimp/mailchimp_marketing": "^3.0.58",
@@ -45,7 +52,9 @@
   "devDependencies": {
     "@next/bundle-analyzer": "12.0.3",
     "@svgr/webpack": "^5.5.0",
+    "commitizen": "^4.3.0",
     "cross-env": "^7.0.3",
+    "cz-git": "^1.5.3",
     "dedent": "^0.7.0",
     "eslint": "^7.29.0",
     "eslint-config-next": "12.0.3",
