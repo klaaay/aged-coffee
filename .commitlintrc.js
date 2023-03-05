@@ -47,7 +47,7 @@ module.exports = {
     allowEmptyIssuePrefix: true,
     confirmColorize: true,
     maxHeaderLength: Infinity,
-    maxSubjectLength: Infinity,
+    maxSubjectLength: 150,
     minSubjectLength: 0,
     scopeOverrides: undefined,
     defaultBody: '',
