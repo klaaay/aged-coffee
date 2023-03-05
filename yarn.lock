@@ -2942,6 +2942,11 @@ cz-git@^1.5.3:
   resolved "https://registry.npmjs.org/cz-git/-/cz-git-1.5.3.tgz#55b4c967e72c4de5109a23fa25ceb6610ac1e529"
   integrity sha512-AToFbLeqhPU/fNM6gH8dX4c5pIIFzHTUhS1FkDaNjsCylrjYPYAMyRUczn4eeAcxtqy1bctIQDOEOwPRTnUs5A==
 
+czg@^1.5.3:
+  version "1.5.3"
+  resolved "https://registry.npmjs.org/czg/-/czg-1.5.3.tgz#0bc40df330565d256b798f25030247d39e6bdef8"
+  integrity sha512-prQB6tiJdRhw59Ec5t8lZPmhwL2ZmUIwmjF7+V9mB/2mMu1Tj9IcdNn/6/+nb6v/CSIT6kAIGpLb+hC2l5UuqA==
+
 damerau-levenshtein@^1.0.7:
   version "1.0.7"
   resolved "https://registry.nlark.com/damerau-levenshtein/download/damerau-levenshtein-1.0.7.tgz#64368003512a1a6992593741a09a9d31a836f55d"
