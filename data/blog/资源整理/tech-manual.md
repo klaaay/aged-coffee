@@ -18,6 +18,7 @@ summary: ''
 - [算法-algorithm](#算法-algorithm)
 - [工具-tools](#工具-tools)
 - [工程-projects](#工程-projects)
+- [AI](#ai)
 
 ## css
 
@@ -98,3 +99,7 @@ summary: ''
 ## 工程-projects
 
 [如何打包 JavaScript 库的现代化指南](https://github.com/frehner/modern-guide-to-packaging-js-library/blob/main/README-zh_CN.md)
+
+## AI
+
+[learning-prompt](https://learningprompt.wiki/)
