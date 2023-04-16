@@ -54,6 +54,14 @@ summary: ''
 19. [Cursor-pro - 光标优化](https://apps.apple.com/us/app/cursor-pro/id1447043133?mt=12)
 20. [stats - 系统监控](https://github.com/exelban/stats)
 
+## 开发
+
+1. [orbstack](https://orbstack.dev/)
+2. [sequel-ace](https://sequel-ace.com/)
+3. [VirtualBuddy](https://github.com/insidegui/VirtualBuddy)
+4. [virtualbox](https://www.virtualbox.org/)
+5. [Apifox](https://apifox.com/)
+
 ## 娱乐
 
 1. IINA - 视频播放器

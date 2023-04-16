@@ -44,13 +44,17 @@ summary: ''
 
 ## 功能
 
-1. [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
-2. [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-3. [Import Cost VSCode Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
-4. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-5. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-6. [MDX](https://marketplace.visualstudio.com/items?itemName=silvenon.mdx)
-7. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-8. [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus)
-9. [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-10. [i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
+1. [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+2. [Import Cost VSCode Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+3. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+4. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+5. [MDX](https://marketplace.visualstudio.com/items?itemName=silvenon.mdx)
+6. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+7. [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus)
+8. [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+9. [i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
+
+## AI
+
+1. [codeium](https://codeium.com/)
+2. [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)

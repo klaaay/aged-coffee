@@ -19,6 +19,7 @@ summary: ''
 - [工具-tools](#工具-tools)
 - [工程-projects](#工程-projects)
 - [AI](#ai)
+- [3D](#3d)
 
 ## css
 
@@ -102,4 +103,14 @@ summary: ''
 
 ## AI
 
-[learning-prompt](https://learningprompt.wiki/)
+[AI 资源全收集](https://we-mobius.notion.site/AI-ae3f86611e9f49b5849461b4c24af4fc)  
+[learning-prompt](https://learningprompt.wiki/)  
+[ChatGPT 从 0 到 1 系统性学习](https://gptdoc.sparkai.chat/)
+
+## 3D
+
+[animate-a-camera-fly-through-on-scroll-using-theatre-js-and-react-three-fiber](https://tympanus.net/codrops/2023/02/14/animate-a-camera-fly-through-on-scroll-using-theatre-js-and-react-three-fiber/)
+
+[beautiful-and-mind-bending-effects-with-webgl-render-targets](https://blog.maximeheckel.com/posts/beautiful-and-mind-bending-effects-with-webgl-render-targets/)
+
+[Webxr with Three.js and React (React Three Fiber)](https://www.youtube.com/playlist?list=PLpM_sf_d5YTPXeVp4cmgN_cNBj9pNTEmZ#react3dfiber)
