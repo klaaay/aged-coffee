@@ -77,7 +77,8 @@ summary: ''
 [凤凰架构](http://icyfenix.cn/summary/)  
 [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)  
 [patterns.dev](https://www.patterns.dev/)  
-[52-design-principles](https://rpdc.xiaohongshu.com/52-design-principles)
+[52-design-principles](https://rpdc.xiaohongshu.com/52-design-principles)  
+[Patterns](https://www.patterns.dev/posts)
 
 ## 脚本-shell
 
@@ -114,3 +115,7 @@ summary: ''
 [beautiful-and-mind-bending-effects-with-webgl-render-targets](https://blog.maximeheckel.com/posts/beautiful-and-mind-bending-effects-with-webgl-render-targets/)
 
 [Webxr with Three.js and React (React Three Fiber)](https://www.youtube.com/playlist?list=PLpM_sf_d5YTPXeVp4cmgN_cNBj9pNTEmZ#react3dfiber)
+
+[Awesome-AITools](https://github.com/ikaijua/Awesome-AITools)
+
+[webGPU 基础知识](https://webgpufundamentals.org/)
