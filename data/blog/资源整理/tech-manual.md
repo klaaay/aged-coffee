@@ -19,6 +19,7 @@ summary: ''
 - [工具-tools](#工具-tools)
 - [工程-projects](#工程-projects)
 - [AI](#ai)
+- [UED](#ued)
 - [3D](#3d)
 
 ## css
@@ -108,7 +109,7 @@ summary: ''
 [learning-prompt](https://learningprompt.wiki/)  
 [ChatGPT 从 0 到 1 系统性学习](https://gptdoc.sparkai.chat/)
 
-# UED
+## UED
 
 [visualization-collection](https://github.com/hepengwei/visualization-collection)  
 🌈 一个专注于前端视觉效果的集合应用，包含 CSS 动效、Canvas 动画、人工智能应用等上百个案例  
