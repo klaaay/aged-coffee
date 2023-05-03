@@ -18,7 +18,7 @@ summary: ''
 - [算法-algorithm](#算法-algorithm)
 - [工具-tools](#工具-tools)
 - [工程-projects](#工程-projects)
-- [UED](#ued)
+- [AI](#ai)
 - [3D](#3d)
 
 ## css
@@ -102,11 +102,14 @@ summary: ''
 
 [如何打包 JavaScript 库的现代化指南](https://github.com/frehner/modern-guide-to-packaging-js-library/blob/main/README-zh_CN.md)
 
-## UED
+## AI
 
 [AI 资源全收集](https://we-mobius.notion.site/AI-ae3f86611e9f49b5849461b4c24af4fc)  
 [learning-prompt](https://learningprompt.wiki/)  
-[ChatGPT 从 0 到 1 系统性学习](https://gptdoc.sparkai.chat/)  
+[ChatGPT 从 0 到 1 系统性学习](https://gptdoc.sparkai.chat/)
+
+# UED
+
 [visualization-collection](https://github.com/hepengwei/visualization-collection)  
 🌈 一个专注于前端视觉效果的集合应用，包含 CSS 动效、Canvas 动画、人工智能应用等上百个案例  
 [webperf-snippets](https://github.com/nucliweb/webperf-snippets)  
