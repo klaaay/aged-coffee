@@ -30,9 +30,9 @@ summary: ''
   - [alt](#alt)
 - [zshrc](#zshrc)
 
-# Mac 常用软件
+## Mac 常用软件
 
-## 通用
+### 通用
 
 - 网易邮箱大师
 - 微信
@@ -46,7 +46,7 @@ summary: ''
 - 阿里云盘
 - Eagle
 
-## 效率
+### 效率
 
 - Notion - 内容管理
 - Paste - 粘贴板工具
@@ -55,7 +55,7 @@ summary: ''
 - Ego Reader - RSS 阅读
 - [Eagle - 图片管理](https://eagle.cool/)
 
-## 工具
+### 工具
 
 - Beyond-Compare - 文件对比
 - Magnet - 分屏工具
@@ -78,7 +78,7 @@ summary: ''
 - [Cursor-pro - 光标优化](https://apps.apple.com/us/app/cursor-pro/id1447043133?mt=12)
 - [stats - 系统监控](https://github.com/exelban/stats)
 
-## 开发
+### 开发
 
 - [orbstack](https://orbstack.dev/)
 - [sequel-ace](https://sequel-ace.com/)
@@ -86,30 +86,30 @@ summary: ''
 - [virtualbox](https://www.virtualbox.org/)
 - [Apifox](https://apifox.com/)
 
-## 娱乐
+### 娱乐
 
 - IINA - 视频播放器
 
-# 命令行工具
+## 命令行工具
 
-## 常见替代
+### 常见替代
 
 - [procs](https://github.com/dalance/procs)  
-  查看系统运行的进程
+   查看系统运行的进程
 
 ```shell
 procs vscode
 ```
 
 - [bat](https://github.com/sharkdp/bat)  
-  cat 的高亮替代版本用于查看文件
+   cat 的高亮替代版本用于查看文件
 
 ```shell
 bat README.md
 ```
 
 - [fd](https://github.com/sharkdp/fd)  
-  find 的替代版本用于查找文件
+   find 的替代版本用于查找文件
 
 ```shell
 fd passwd /etc
@@ -119,31 +119,31 @@ fd passwd /etc
 ```
 
 - [exa](https://github.com/ogham/exa)  
-  ls 的替代版本查看文件夹文件信息
+   ls 的替代版本查看文件夹文件信息
 
 ```shell
 exa -l
 exa --tree --level=2
 ```
 
-## 功能
+### 功能
 
 - [rg](https://github.com/BurntSushi/ripgrep)  
-  正则查找文件夹或者文件中的内容
+   正则查找文件夹或者文件中的内容
 
 ```shell
 rg 'fast\w*' README.md
 ```
 
 - [ctop](https://github.com/bcicen/ctop)  
-  运行程序资源分布查看
+   运行程序资源分布查看
 
 - [mac-cleanup](https://github.com/mac-cleanup/mac-cleanup-sh)
   Mac OS Cleanup
 
-# VSCODE 插件
+## VSCODE 插件
 
-## 视觉
+### 视觉
 
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)  
    给 vscode 上色
@@ -153,7 +153,7 @@ rg 'fast\w*' README.md
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [styled-jsx](https://marketplace.visualstudio.com/items?itemName=blanu.vscode-styled-jsx)
 
-## 效率
+### 效率
 
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
@@ -164,7 +164,7 @@ rg 'fast\w*' README.md
 - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
-## 风格
+### 风格
 
 - [Codelf](https://marketplace.visualstudio.com/items?itemName=unbug.codelf)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -173,13 +173,13 @@ rg 'fast\w*' README.md
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)  
    git 项目的归类管理
 
-## 提示
+### 提示
 
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [VersionLens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 
-## 功能
+### 功能
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Import Cost VSCode Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
@@ -191,14 +191,14 @@ rg 'fast\w*' README.md
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
 
-## AI
+### AI
 
 - [codeium](https://codeium.com/)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
-# 快捷键
+## 快捷键
 
-## control + option + command
+### control + option + command
 
 用 openInTerminal 在当前目录打开 terminal  
 `control + option + command + t`
@@ -209,7 +209,7 @@ rg 'fast\w*' README.md
 用 openInTerminal 复制当前的文件地址  
 `control + option + command + c`
 
-## control + option
+### control + option
 
 用 DropOver 打开一个空的文件暂存区域  
 `alt + option + blank-space`
@@ -217,7 +217,7 @@ rg 'fast\w*' README.md
 控制 Hidden Bar 的显示与否  
 `alt + option + h`
 
-## command + shift
+### command + shift
 
 打开剪贴板管理工具 Paste  
 `command + shift + v`
@@ -231,7 +231,7 @@ rg 'fast\w*' README.md
 使用 uPic 选择裁剪区域并上传  
 `command + shift + i`
 
-## command
+### command
 
 使用 input source pro 切换输入法搜狗中文  
 `command + ]`
@@ -239,12 +239,12 @@ rg 'fast\w*' README.md
 使用 input source pro 切换输入法英文  
 `command + [`
 
-## alt
+### alt
 
 打开 Alfred 全局搜索框  
 `alt + blank-space`
 
-# zshrc
+## zshrc
 
 ```bash
 
