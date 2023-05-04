@@ -1,6 +1,26 @@
-# tools-collection
-
-# mac-software
+- [Mac 常用软件](#mac-常用软件)
+  - [通用](#通用)
+  - [效率](#效率)
+  - [工具](#工具)
+  - [开发](#开发)
+  - [娱乐](#娱乐)
+- [命令行工具](#命令行工具)
+  - [常见替代](#常见替代)
+  - [功能](#功能)
+- [VSCODE 插件](#vscode-插件)
+  - [视觉](#视觉)
+  - [效率](#效率-1)
+  - [风格](#风格)
+  - [提示](#提示)
+  - [功能](#功能-1)
+  - [AI](#ai)
+- [快捷键](#快捷键)
+  - [control + option + command](#control--option--command)
+  - [control + option](#control--option)
+  - [command + shift](#command--shift)
+  - [command](#command)
+  - [alt](#alt)
+- [zshrc](#zshrc)
 
 # Mac 常用软件
 
@@ -170,3 +190,142 @@ rg 'fast\w*' README.md
 
 - [codeium](https://codeium.com/)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+
+# 快捷键
+
+## control + option + command
+
+用 openInTerminal 在当前目录打开 terminal  
+`control + option + command + t`
+
+用 openInTerminal 在当前目录打开 vscode  
+`control + option + command + v`
+
+用 openInTerminal 复制当前的文件地址  
+`control + option + command + c`
+
+## control + option
+
+用 DropOver 打开一个空的文件暂存区域  
+`alt + option + blank-space`
+
+控制 Hidden Bar 的显示与否  
+`alt + option + h`
+
+## command + shift
+
+打开剪贴板管理工具 Paste  
+`command + shift + v`
+
+使用 uPic 选择文件上传  
+`command + shift + y`
+
+使用 uPic 上传剪贴板的图片内容
+`command + shift + u`
+
+使用 uPic 选择裁剪区域并上传  
+`command + shift + i`
+
+## command
+
+使用 input source pro 切换输入法搜狗中文  
+`command + ]`
+
+使用 input source pro 切换输入法英文  
+`command + [`
+
+## alt
+
+打开 Alfred 全局搜索框  
+`alt + blank-space`
+
+# zshrc
+
+```bash
+
+export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=/usr/local/Cellar/postgresql@9.6/9.6.19/bin:$PATH
+
+export ZSH=$HOME/.oh-my-zsh
+
+
+ZSH_THEME="ys"
+
+# git clone https://github.com/paulirish/git-open.git
+# git clone https://github.com/zsh-users/zsh-autosuggestions
+# git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+# git clone https://github.com/agkozak/zsh-z
+plugins=(
+  git
+  dirhistory
+  git-open
+  zsh-autosuggestions
+  zsh-syntax-highlighting
+  zsh-z
+)
+
+source $ZSH/oh-my-zsh.sh
+
+prompt_context() {}
+
+eval $(thefuck --alias)
+
+# -------------------------------- #
+
+alias clr='clear'
+alias ..="cd .."
+
+# -------------------------------- #
+
+alias ga="git add"
+alias gA="git add -A"
+
+
+alias gck="git checkout"
+alias gckb="git checkout -b"
+
+alias go="git open"
+
+alias gcl="git clone"
+alias gclr="git checkout ./"
+alias gp="git pull origin"
+alias gps="git push origin"
+alias gcm="git commit -m"
+alias gch="git cherry-pick"
+
+alias gsv="git stash save"
+alias gsl="git stash list"
+alias gsp="git stash pop"
+alias gsclr="git stash clear"
+
+
+# npm install -g czg
+# czg --openai-token=sk-xxxxx
+
+alias aicm="czg ai"
+
+# -------------------------------- #
+
+alias cfgzsh="open ~/.zshrc"
+alias sourcezsh="source ~/.zshrc"
+
+# -------------------------------- #
+
+# where proxy
+proxy () {
+  export http_proxy="http://127.0.0.1:1087"
+  export https_proxy="http://127.0.0.1:1087"
+  echo "HTTP Proxy on"
+}
+
+# where noproxy
+noproxy () {
+  unset http_proxy
+  unset https_proxy
+  echo "HTTP Proxy off"
+}
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+```
