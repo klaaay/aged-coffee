@@ -107,7 +107,8 @@ summary: ''
 
 [AI 资源全收集](https://we-mobius.notion.site/AI-ae3f86611e9f49b5849461b4c24af4fc)  
 [learning-prompt](https://learningprompt.wiki/)  
-[ChatGPT 从 0 到 1 系统性学习](https://gptdoc.sparkai.chat/)
+[ChatGPT 从 0 到 1 系统性学习](https://gptdoc.sparkai.chat/)  
+[吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
 ## UED
 

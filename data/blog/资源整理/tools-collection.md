@@ -141,6 +141,9 @@ rg 'fast\w*' README.md
 - [mac-cleanup](https://github.com/mac-cleanup/mac-cleanup-sh)
   Mac OS Cleanup
 
+- [upscayl](https://www.upscayl.org/)  
+  AI 提升图片画质
+
 ## VSCODE 插件
 
 ### 视觉
