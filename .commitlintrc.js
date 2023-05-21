@@ -55,7 +55,5 @@ module.exports = {
     defaultScope: '',
     defaultSubject: '',
     useAI: true,
-    aiQuestionCB: ({ maxSubjectLength, diff }) =>
-      `用完整句子为以下 Git diff 代码写一个有见解并简洁的 Git 中文提交消息，不加任何前缀，并且内容不能超过 ${maxSubjectLength} 个字符: \`\`\`diff\n${diff}\n\`\`\``,
   },
 }
