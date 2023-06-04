@@ -8,6 +8,7 @@ summary: ''
 
 - [css](#css)
 - [react](#react)
+- [next](#next)
 - [typescript](#typescript)
 - [javascript](#javascript)
 - [代码风格-styles](#代码风格-styles)
@@ -40,6 +41,10 @@ summary: ''
 [typescript-cheatsheets-react](https://github.com/typescript-cheatsheets/react)
 [CSR 优化手册](https://github.com/theninthsky/client-side-rendering)  
 [react-handbook](https://reacthandbook.dev/)
+
+## next
+
+[NextJS 应用开发实践](https://nextjs-in-action-cn.taonan.lu/#%E5%B0%81%E9%9D%A2)
 
 ## typescript
 
