@@ -51,7 +51,8 @@ summary: ''
 [深入理解 typescript](https://jkchao.github.io/typescript-book-chinese/#why)  
 [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)  
 [utility-types](https://github.com/piotrwitek/utility-types)  
-[type-challenges](https://github.com/type-challenges/type-challenges)
+[type-challenges](https://github.com/type-challenges/type-challenges)  
+[Javascript 语言规范](https://zh-google-styleguide.readthedocs.io/en/latest/google-javascript-styleguide/javascript_language_rules/)
 
 ## javascript
 
