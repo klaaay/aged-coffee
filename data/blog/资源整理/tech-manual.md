@@ -51,8 +51,7 @@ summary: ''
 [深入理解 typescript](https://jkchao.github.io/typescript-book-chinese/#why)  
 [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)  
 [utility-types](https://github.com/piotrwitek/utility-types)  
-[type-challenges](https://github.com/type-challenges/type-challenges)  
-[Javascript 语言规范](https://zh-google-styleguide.readthedocs.io/en/latest/google-javascript-styleguide/javascript_language_rules/)
+[type-challenges](https://github.com/type-challenges/type-challenges)
 
 ## javascript
 
@@ -60,6 +59,7 @@ summary: ''
 [wtfjs](https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md)  
 [javascript 二十年](https://cn.history.js.org/index.html)  
 [functional-light-js](https://github.com/getify/Functional-Light-JS)
+[TypeScript 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-typescript-styleguide/contents/)
 
 ## 代码风格-styles
 
@@ -115,7 +115,8 @@ summary: ''
 [AI 资源全收集](https://we-mobius.notion.site/AI-ae3f86611e9f49b5849461b4c24af4fc)  
 [learning-prompt](https://learningprompt.wiki/)  
 [ChatGPT 从 0 到 1 系统性学习](https://gptdoc.sparkai.chat/)  
-[吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版](https://github.com/datawhalechina/prompt-engineering-for-developers)
+[吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版](https://github.com/datawhalechina/prompt-engineering-for-developers)  
+[LLM 应用手册](https://aigc.phodal.com/prompt-understand.html)
 
 ## UED
 
