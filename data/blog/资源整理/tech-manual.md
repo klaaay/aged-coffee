@@ -52,6 +52,7 @@ summary: ''
 [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)  
 [utility-types](https://github.com/piotrwitek/utility-types)  
 [type-challenges](https://github.com/type-challenges/type-challenges)
+[TypeScript 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-typescript-styleguide/contents/)
 
 ## javascript
 
@@ -59,7 +60,6 @@ summary: ''
 [wtfjs](https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md)  
 [javascript 二十年](https://cn.history.js.org/index.html)  
 [functional-light-js](https://github.com/getify/Functional-Light-JS)
-[TypeScript 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-typescript-styleguide/contents/)
 
 ## 代码风格-styles
 
