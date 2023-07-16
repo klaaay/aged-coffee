@@ -116,7 +116,8 @@ summary: ''
 [learning-prompt](https://learningprompt.wiki/)  
 [ChatGPT 从 0 到 1 系统性学习](https://gptdoc.sparkai.chat/)  
 [吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版](https://github.com/datawhalechina/prompt-engineering-for-developers)  
-[LLM 应用手册](https://aigc.phodal.com/prompt-understand.html)
+[LLM 应用手册](https://aigc.phodal.com/prompt-understand.html)  
+[Google AI 生成式学习路径](https://www.cloudskillsboost.google/journeys/118?utm_source=www.superpowerdaily.com&utm_medium=referral&utm_campaign=you-can-zip-an-entire-git-repo-and-shove-it-into-chatgpt-now)
 
 ## UED
 
