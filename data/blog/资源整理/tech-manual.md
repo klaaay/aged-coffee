@@ -44,7 +44,8 @@ summary: ''
 
 ## next
 
-[NextJS 应用开发实践](https://nextjs-in-action-cn.taonan.lu/#%E5%B0%81%E9%9D%A2)
+[NextJS 应用开发实践](https://nextjs-in-action-cn.taonan.lu/#%E5%B0%81%E9%9D%A2)  
+[揭秘 React 服务器组件](https://demystifying-rsc.vercel.app/)
 
 ## typescript
 
@@ -52,7 +53,8 @@ summary: ''
 [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)  
 [utility-types](https://github.com/piotrwitek/utility-types)  
 [type-challenges](https://github.com/type-challenges/type-challenges)
-[TypeScript 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-typescript-styleguide/contents/)
+[TypeScript 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-typescript-styleguide/contents/)  
+[typescript-react-style-guide](https://github.com/mkosir/typescript-react-style-guide)
 
 ## javascript
 
