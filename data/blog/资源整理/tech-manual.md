@@ -9,6 +9,7 @@ summary: ''
 - [css](#css)
 - [react](#react)
 - [next](#next)
+- [node](#node)
 - [typescript](#typescript)
 - [javascript](#javascript)
 - [代码风格-styles](#代码风格-styles)
@@ -46,6 +47,10 @@ summary: ''
 
 [NextJS 应用开发实践](https://nextjs-in-action-cn.taonan.lu/#%E5%B0%81%E9%9D%A2)  
 [揭秘 React 服务器组件](https://demystifying-rsc.vercel.app/)
+
+## node
+
+[node 最佳实践手册](https://github.com/goldbergyoni/nodebestpractices)
 
 ## typescript
 

@@ -6,6 +6,7 @@ draft: false
 summary: ''
 ---
 
+- [FixedForwardRef](#fixedforwardref)
 - [渐变 border 的 tailwind 实现](#渐变-border-的-tailwind-实现)
 - [ios H5 history.back() 返回上一路由 页面白屏问题](#ios-h5-historyback-返回上一路由-页面白屏问题)
 - [Vite 配置 ws 转发](#vite-配置-ws-转发)
@@ -21,6 +22,20 @@ summary: ''
 - [在 nextjs 中支持项目外部的.ts,.tsx 文件编译](#在-nextjs-中支持项目外部的tstsx-文件编译)
 - [H5 的使用技巧](#h5-的使用技巧)
 - [vite 配合 whistle 跑本地环境的 server-hmr 配置](#vite-配合-whistle-跑本地环境的-server-hmr-配置)
+
+## FixedForwardRef
+
+```tsx
+import React, { forwardRef } from " react";
+// Declare a type that works with
+// generic components
+type FixedForwardRef = <T, P= {}>(
+  render: (props: P, ref: React.Ref<T>）=> React.ReactNode
+）=> (props: P & React.RefAttributes<T>）=> React.ReactNode;
+
+// cast the old forwardRef to the new one
+export const fixedForwardRef = forwardRef as FixedForwardRef;
+```
 
 ## 渐变 border 的 tailwind 实现
 
