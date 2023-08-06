@@ -50,7 +50,8 @@ summary: ''
 
 ## node
 
-[node 最佳实践手册](https://github.com/goldbergyoni/nodebestpractices)
+[node 最佳实践手册](https://github.com/goldbergyoni/nodebestpractices)  
+[Node.js Toolbox](https://nodejstoolbox.com/)
 
 ## typescript
 
@@ -59,7 +60,8 @@ summary: ''
 [utility-types](https://github.com/piotrwitek/utility-types)  
 [type-challenges](https://github.com/type-challenges/type-challenges)
 [TypeScript 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-typescript-styleguide/contents/)  
-[typescript-react-style-guide](https://github.com/mkosir/typescript-react-style-guide)
+[typescript-react-style-guide](https://github.com/mkosir/typescript-react-style-guide)  
+[typescript-style-guide](https://mkosir.github.io/typescript-style-guide/)
 
 ## javascript
 
