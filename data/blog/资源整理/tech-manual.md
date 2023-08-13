@@ -61,7 +61,8 @@ summary: ''
 [type-challenges](https://github.com/type-challenges/type-challenges)
 [TypeScript 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-typescript-styleguide/contents/)  
 [typescript-react-style-guide](https://github.com/mkosir/typescript-react-style-guide)  
-[typescript-style-guide](https://mkosir.github.io/typescript-style-guide/)
+[typescript-style-guide](https://mkosir.github.io/typescript-style-guide/)  
+[TypeScript 教程](https://wangdoc.com/typescript/)
 
 ## javascript
 
